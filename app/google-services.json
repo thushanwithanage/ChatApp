@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853431389638",
+    "firebase_url": "https://test1-64176.firebaseio.com",
+    "project_id": "test1-64176",
+    "storage_bucket": "test1-64176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853431389638:android:40c59bb960fa3d701976c7",
+        "android_client_info": {
+          "package_name": "com.thushan.app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853431389638-uk2iqnvs9d3t9anad89tatel4ue7500t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8OWjsMh-bPpoyobiu4qfMbVK48LE3Xxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853431389638-uk2iqnvs9d3t9anad89tatel4ue7500t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
