@@ -21,8 +21,8 @@ public class ViewImage extends AppCompatActivity {
         super.onCreate( savedInstanceState );
         setContentView( R.layout.activity_view_image );
 
-        Intent intent2 = getIntent();
-        String imgSrc = intent2.getStringExtra("imgSrc");
+        Intent k = getIntent();
+        String imgSrc = k.getStringExtra("imgSrc");
 
         photo = findViewById( R.id.view_photo );
         back = findViewById( R.id.btn_back2 );
